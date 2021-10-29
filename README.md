@@ -31,7 +31,7 @@ First steps with java
   </strong>
 </p>
 
-This repository is converting results from JS to Json, being displayed in the console:
+Basic operations related to a CRUD with the data, using the Browser's Local Storage:
 
 [A](https://github.com/VitorDietrich-Coder/JS-LOCAL-STORAGE/tree/main/A)
 
